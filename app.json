@@ -9,7 +9,7 @@
         "navigationBarBackgroundColor": "#f6c84c",
         "navigationBarTitleText": "喵崽翻译",
         "navigationBarTextStyle": "white",
-        "backgroundColor": "#ff0000"
+        "backgroundColor": "#f5fafe"
     },
     "tabBar": {
         "borderStyle": "white",
